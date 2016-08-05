@@ -98,6 +98,22 @@ footer {
     }
 }
 
+/* START MEMBER PAGES */
+
+.mb_img{
+	width: 250px;
+}
+.mb_panel-heading{
+    padding: unset;
+    /*color: #333;
+	background-color: #f5f5f5;
+	border-color: #ddd;*/
+}
+
+.mb_price {
+    font-size: 30px;
+    line-height: 30px;
+}
 
 /* START R E S P O N S I V E   C O M P A R I S O N   T A B L E  */
 table{
@@ -157,3 +173,5 @@ table{
   }
 }
 /* END R E S P O N S I V E   C O M P A R I S O N   T A B L E  */
+
+/* END MEMBER PAGES */
